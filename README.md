@@ -45,3 +45,5 @@ Notice that the quotes are left off the keys and that on the right hand side of 
 JSONDL defines the following base types:
 
 - `Boolean` - The literal JSON `true` or `false`. (In type union notation: `Boolean = true | false`)
+
+TODO
